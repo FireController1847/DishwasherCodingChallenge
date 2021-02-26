@@ -3,6 +3,9 @@ Welcome to the Dishwasher Coding Challenge! You have 15 minutes to write a progr
 
 If you record your attempt, feel free to make a PR to add your solution. Ensure that you link the video in your PR. Please put it under `solutions/<yourusername>/`.
 
+## The Language
+As long as you are able to create something to represent an object and an enum, your programming language is allowed!
+
 ## The Challenge
 In 15 minutes, write a program that accurately represents the act of putting away dishes from a dishwasher. There must be three classes: a *dish*, a *dishwasher*, and a *human*. There is one enum: a *dishtype*. You must define at least 10 different dish types to be able to use in your dishwasher.
 
